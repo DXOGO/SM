@@ -1,2 +1,2 @@
 # SM
-Pratcial classes for the Multimedia Systems class 2020/2021
+Practical classes for the Multimedia Systems class 2020/2021
